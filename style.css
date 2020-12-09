@@ -1,0 +1,61 @@
+body {
+    
+    font-size: 20px;
+    background-color: black;
+    height: 100vh;
+    color: white;
+
+}
+
+#jumboMain {
+    background-color: black;
+}
+
+#jumboHead {
+    font-weight: bold;
+    background-color: black;
+    color: red;
+}
+
+#myJumbo {
+    background-color: black;
+    color:red;
+}
+
+#viewHighScores {
+    position: absolute;
+    top: 5px;
+    right:20px;
+    text-align: right;
+    color: red;
+    font-size: small;
+}
+
+#timer {
+    position: absolute;
+    right: 20px;
+    text-align: right;
+}
+
+#backHome {
+    position: absolute;
+    top: 5px;
+    right:20px;
+    text-align: right;
+    color: red;
+    font-size: small;
+}
+
+#main {
+    font-size: large;
+}
+
+.myBtn {
+    margin: 2px;
+}
+
+li {
+    list-style-type: none;
+}
+
+
